@@ -1,7 +1,7 @@
 {
-	"name": "frontend-starter",
+	"name": "product-preview-card",
 	"version": "1.2.2",
-	"description": "FrontEnd Starter - boilerplate for easy building sites using task manager Gulp 4",
+	"description": "Product Preview Card",
 	"keywords": [
 		"frontend",
 		"starter",
@@ -28,7 +28,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/zakandaiev/frontend-starter"
+		"url": "https://github.com/laurentguenver-a/product-preview-card.git"
 	},
 	"main": "index.js",
 	"scripts": {
