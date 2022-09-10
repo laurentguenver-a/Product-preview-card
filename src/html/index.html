@@ -2,8 +2,10 @@
 
 <div class="card">
 	<div class="card__image">
-		<img class="card__image--web" src="img/image-product-desktop.jpg" alt="Product" />
-		<img class="card__image--mobile" src="img/image-product-mobile.jpg" alt="Product" />
+		<picture>
+			<source class="card__image--mobile" media="(max-width:375px)" srcset="img/image-product-mobile.jpg">
+			<img src="img/image-product-desktop.jpg" alt="Product" />
+		  </picture>
 	</div>
 	<div class="card__content">
 		<h3>PERFUME</h3>
