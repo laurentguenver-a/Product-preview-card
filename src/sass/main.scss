@@ -48,14 +48,14 @@ main {
     padding-left: 5%;
     padding-right: 5%;
     flex: 50%;
-    h2 {
+    h1 {
       color: hsl(212, 21%, 14%);
       font-size: 41px;
       font-family: Fraunces;
       line-height: 1;
       margin: 0;
     }
-    h3 {
+    h2 {
       margin: 0;
       font-size: 14px;
       letter-spacing: 0.5rem;
@@ -131,10 +131,10 @@ main {
     }
     .card__content{
       flex:60%;
-      h2 {
+      h1 {
         font-size: 35px;
       }
-      h3 {
+      h2 {
         font-size: 12px;
       }
       p {
